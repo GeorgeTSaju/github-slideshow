@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hi, I am George T Saju
+I am from Kannur.
 Use the left arrow to go back!
